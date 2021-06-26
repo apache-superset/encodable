@@ -53,6 +53,7 @@
     "@airbnb/config-jest": "^3.0.2",
     "@airbnb/config-prettier": "^3.1.0",
     "@airbnb/config-typescript": "^3.0.1",
+    "@beemo/driver-typescript": "^1.4.1",
     "@airbnb/nimbus": "^3.1.4",
     "@superset-ui/commit-config": "^0.0.9",
     "@types/enzyme": "^3.10.4",
@@ -71,7 +72,7 @@
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-test-renderer": "^16.12.0",
-    "typescript": "^3.9.7"
+    "typescript": "^4.0.2"
   },
   "engines": {
     "node": ">=10.10.0",
